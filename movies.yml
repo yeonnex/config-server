@@ -2,7 +2,7 @@ movie:
   directory: /Users/yeonnex/Desktop/movies
   file-pattern: "*.txt"
   prevent-duplicates: true
-  fixed-delay: 5000
+  fixed-delay: 1000
 logging:
   level:
     com:
