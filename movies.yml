@@ -1,5 +1,5 @@
 movie:
-  directory: /Users/yeonnex/Desktop/movies
+  directory: /Users/yeonnex/Desktop/hello
   file-pattern: "*.txt"
   prevent-duplicates: true
   fixed-delay: 5000
